@@ -1,0 +1,1866 @@
+Kabul
+Kandahar
+Herat
+Mazar-i-Sharif
+Kunduz
+Taloqan
+Jalalabad
+Puli Khumri
+Charikar
+Sheberghan
+Ghazni
+Sar-e Pol
+Khost
+Chaghcharan
+Mihtarlam
+Farah
+Puli Alam
+Samangan
+Lashkar Gah
+Tiranë
+Durrës
+Vlorë
+Elbasan
+Shkodër
+Kamëz
+Fier
+Korçë
+Berat
+Lushnjë
+Pogradec
+Kavajë
+Gjirokastër
+Fushë-Krujë
+Sarandë
+Laç
+Kukës
+Sukth
+Patos
+Lezhë
+Mamurras
+Peshkopi
+Kuçovë
+Krujë
+Vorë
+Burrel
+Rrëshen
+Milot
+Divjakë
+Gramsh
+Bulqizë
+Vau i Dejës
+Shëngjin
+Klos
+Ballsh
+Shijak
+Ura Vajgurore
+Rrogozhinë
+Librazhd
+Cërrik
+Manëz
+Peqin
+Bilisht
+Krumë
+Përmet
+Prrenjas
+Delvinë
+Orikum
+Bajram Curri
+Roskovec
+Rubik
+Tepelenë
+Poliçan
+Maliq
+Çorovodë
+Ersekë
+Koplik
+Pukë
+Himarë
+Këlcyrë
+Memaliaj
+Fushë-Arrëz
+Bajzë
+Krrabë
+Selenicë
+Konispol
+Libohovë
+Reps
+Fierzë
+Krastë
+Leskovik
+Finiq
+Ulëz
+Kurbnesh
+Algiers
+Oran
+Constantine
+Annaba
+Blida
+Batna
+Djelfa
+Sétif
+Sidi Bel Abbes
+Biskra
+Tébessa
+El Oued
+Skikda
+Tiaret
+Béjaia
+Tlemcen
+Ouargla
+Béchar
+Mostaganem
+Bordj Bou Arréridj
+Chlef
+Souk Ahras
+Médéa
+El Eulma
+Touggourt
+Ghardaia
+Saida
+Laghouat
+M'Sila
+Jijel
+Relizane
+Guelma
+Ain Béida
+Khenchela
+Bousaada
+Mascara
+Tindouf
+Tizi Ouzou
+All Saints
+Bolans
+Carlisle
+Clare Hall
+Cedar Grove
+Codrington
+Dickenson Bay
+English Harbour
+Falmouth
+Freetown
+Jennings
+Liberta
+Old Road
+Parham
+Pigotts
+Potter's Village
+Seaview Farm
+St. John's
+Swetes
+Willikies
+Altenberg	
+Amstetten
+Ansfelden
+Bad Aussee
+Bad Fischau-Brunn	
+Bad Ischl
+Baden
+Bischofshofen
+Bludenz
+Braunau am Inn
+Bregenz
+Bruck an der Mur
+Deutschlandsberg
+Dornbirn
+Ebensee
+Eisenerz
+Eisenstadt
+Enns
+Feldkirch
+Freistadt
+Fürstenfeld
+Gmunden	
+Gmünd
+Graz
+Hallein
+Hallstatt	
+Hartberg
+Hollabrunn
+Horn
+Imst	
+Innsbruck
+Judenburg
+Kapfenberg
+Kirchdorf an der Krems	
+Kitzbühel	
+Klagenfurt
+Klosterneuburg
+Knittelfeld	
+Krems
+Kufstein
+Landeck
+Leoben
+Lenzing
+Leonding	
+Lienz	
+Liezen
+Linz
+Mariazell	
+Mauthausen
+Mittersill
+Mödling
+Mürzzuschlag
+Neunkirchen	
+Poysdorf	
+Ried im Innkreis
+Salzburg
+Sankt Pölten
+Schärding
+Schwaz
+Spittal an der Drau
+Steyr
+Stockerau
+Traun
+Vienna
+Villach
+Wels
+Wiener Neustadt
+Wolfsberg
+Wörgl
+Ybbs	
+Zeltweg
+Zwettl
+Homel
+Grodno
+Witebsk
+Mohylew
+Bobrujsk
+Brzeœæ
+Baranowicze
+Borysów
+Piñsk
+Orsza
+Nowopo³ock
+Mozyrz
+Lida
+Mo³odeczno
+Zagreb
+Split
+Rijeka
+Osijek
+Zadar
+Velika Gorica
+Slavonski Brod
+Pula
+Karlovac
+Sisak
+Varaždin
+Šibenik
+Dubrovnik
+Bjelovar
+Kaštela
+Samobor
+Vinkovci
+Koprivnica
+Ðakovo
+Vukovar
+Èakovec
+Požega
+Zaprešiæ
+Sinj
+Petrinja
+Solin
+Kutina
+Virovitica
+Križevci
+Sveta Nedelja
+Dugo Selo
+Metkoviæ
+Poreè
+Našice
+Sveti Ivan Zelina
+Jastrebarsko
+Knin
+Omiš
+Vrbovec
+Ivaniæ-Grad
+Rovinj
+Nova Gradiška
+Ogulin
+Makarska
+Ivanec
+Slatina
+Novska
+Umag
+Novi Marof
+Trogir
+Gospiæ
+Krapina
+Županja
+Popovaèa
+Opatija
+Labin
+Daruvar
+Valpovo
+Pleternica
+Duga Resa
+Crikvenica
+Benkovac
+Belišæe
+Imotski
+Garešnica
+Kastav
+Ploèe
+Beli Manastir
+Otoèac
+Donji Miholjac
+Glina
+Trilj
+Zabok
+Vodice
+Pazin
+Ludbreg
+Pakrac
+Lepoglava
+Bakar
+Ðurðevac
+Mali Lošinj
+Èazma
+Rab
+Prelog
+Drniš
+Senj
+Ozalj
+Ilok
+Pregrada
+Vrgorac
+Grubišno
+Varaždinske
+Otok
+Mursko
+Krk
+Kutjevo
+Lipik
+Oroslavje
+Buzet
+Vodnjan
+Zlatar
+Delnice
+Donja
+Korèula
+Biograd
+Orahovica
+Buje
+Novi
+Slunj
+Vrbovsko
+Kraljevica
+Novigrad
+Obrovac
+Hvar
+Supetar
+Pag
+Skradin
+Èabar
+Novalja
+Opuzen
+Klanjec
+Cres
+Stari Grad
+Hrvatska Kostajnica
+Nin
+Vrlika
+Komiža
+Aleksandrów Kujawski
+Aleksandrów £ódzki
+Alwernia
+Andrychów
+Annopol
+Augustów
+Babimost
+Baborów
+Baranów Sandomierski
+Barcin
+Barczewo
+Bardo
+Barlinek
+Bartoszyce
+Barwice
+Be³chatów
+Be³¿yce
+Bêdzin
+Bia³a
+Bia³a Piska
+Bia³a Podlaska
+Bia³a Rawska
+Bia³obrzegi
+Bia³ogard
+Bia³y Bór
+Bia³ystok
+Biecz
+Bielawa
+Bielsk Podlaski
+Bielsko-Bia³a
+Bieruñ
+Bierutów
+Bierzyn
+Bierzyn
+Bie¿uñ
+Bi³goraj
+Biskupiec
+Bisztynek
+Blachownia
+B³aszki
+B³a¿owa
+B³onie
+Bobolice
+Bobowa
+Bochnia
+Bodzentyn
+Bogatynia
+Boguchwa³a
+Boguszów-Gorce
+Bojanowo
+Boles³awiec
+Bolków
+Borek Wielkopolski
+Borne Sulinowo
+Braniewo
+Brañsk
+Brodnica
+Brok
+Brusy
+Brwinów
+Brzeg
+Brzeg Dolny
+Brzesko
+Brzeszcze
+Brzeœæ Kujawski
+Brzeziny
+Brzostek
+BrzozówBuk
+Bukowno
+Busko Zdrój
+Bychawa
+Byczyna
+Bydgoszcz
+Bystrzyca K³odzka
+Bytom
+Bytom Odrzañski
+Bytów
+Cedynia
+Che³m
+Che³mek
+Che³mno
+Che³m¿a
+Chêciny
+Chmielnik
+Chocianów
+Chociwel
+Chocz
+Chodecz
+Chodzie¿
+Chojna
+Chojnice
+Chojnów
+Choroszcz
+Chorzele
+Chorzów
+Choszczno
+Chrzanów
+Ciechanowiec
+Ciechanów
+Ciechocinek
+Cieszanów
+Cieszyn
+Ciê¿kowice
+Cybinka
+Czaplinek
+Czarna Bia³ostocka
+Czarna Woda
+Czarne
+Czarnków
+Czchów
+Czechowice-Dziedzice
+CzeladŸ
+Czempiñ
+Czerniejewo
+Czersk
+Czerwieñsk
+Czerwionka-Leszczyny
+Czêstochowa
+Cz³opa
+Cz³uchów
+Czy¿ew
+Daleszyce
+Dar³owo
+D¹bie
+D¹browa Bia³ostocka
+D¹browa Górnicza
+D¹browa Tarnowska
+Debrzno
+Dêbica
+Dêblin
+Dêbno
+Dobczyce
+Dobiegniew
+Dobra (£obez County)
+Dobra (Turek County)
+Dobre Miasto
+Dobrodzieñ
+Dobrzany
+Dobrzyca
+Dobrzyñ nad Wis³¹
+DolskDrawno
+Drawsko Pomorskie
+Drezdenko
+Drobin
+Drohiczyn
+Drzewica
+Dukla
+Duszniki Zdrój
+Dynów
+Dzia³dowo
+Dzia³oszyce
+Dzia³oszyn
+Dzierzgoñ
+Dzier¿oniów
+Dziwnów
+Elbl¹g
+E³k
+Frampol
+Frombork
+Garwolin
+G¹bin
+Gdañsk
+Gdynia
+Gi¿ycko
+Glinojeck
+Gliwice
+G³ogów
+G³ogów Ma³opolski
+G³ogówek
+G³owno
+G³ubczyce
+G³ucho³azy
+G³uszyca
+Gniew
+Gniewkowo
+Gniezno
+Gogolin
+Golczewo
+Goleniów
+Golina
+Golub-Dobrzyñ
+Go³añcz
+Go³dap
+Goni¹dz
+Gorlice
+Gorzów Œl¹ski
+Gorzów Wielkopolski
+Goœcino
+Gostynin
+Gostyñ
+Gozdnica
+Góra
+Góra Kalwaria
+Górowo I³aweckie
+Górzno
+Hajnówka
+Halinów
+Hel
+Hrubieszów
+I³awa
+I³owa
+I³¿a
+Imielin
+Inowroc³aw
+Iñsko
+Iwonicz Zdrój
+Izbica Kujawska
+Jab³onowo Pomorskie
+Janikowo
+Janowiec Wielkopolski
+Janów Lubelski
+Jaraczewo
+Jarocin
+Jaros³aw
+Jasieñ
+Jas³o
+Jastarnia
+Jastrowie
+Jastrzêbie Zdrój
+Jawor
+Jaworzno
+Jaworzyna Œl¹ska
+Jedlicze
+Jedlina Zdrój
+Jedwabne
+Jelcz-Laskowice
+Jelenia Góra
+Jeziorany
+Jêdrzejów
+Jordanów
+Józefów
+Józefów
+Jutrosin
+Kalety
+Kalisz
+Kalisz Pomorski
+Kalwaria Zebrzydowska
+Ka³uszyn
+Kamienna Góra
+Kamieñ Krajeñski
+Kamieñ Pomorski
+Kamieñsk
+Kañczuga
+Karczew
+Kargowa
+Karlino
+Karpacz
+Kartuzy
+Katowice
+Kazimierz Dolny
+Kazimierza Wielka
+K¹ty Wroc³awskie
+Kcynia
+Kêdzierzyn-KoŸle
+Kêpice
+Kêpno
+Kêtrzyn
+Kêty
+Kielce
+Kietrz
+Kisielice
+Kleczew
+Kleszczele
+Kluczbork
+K³ecko
+K³obuck
+K³odawa
+K³odzko
+Knurów
+Knyszyn
+Kobylin
+Koby³ka
+Kock
+Kolbuszowa
+Kolno
+Kolonowskie
+Koluszki
+Ko³aczyce
+Ko³o
+Ko³obrzeg
+Koniecpol
+Koniem³oty
+Konin
+Konstancin-Jeziorna
+Konstantynów £ódzki
+Koñskie
+Koprzywnica
+Korfantów
+Koronowo
+Korsze
+Kosów Lacki
+Kostrzyn
+Kostrzyn nad Odr¹
+Koszalin
+Koœcian
+Koœcierzyna
+Kowal
+Kowalewo Pomorskie
+Kowary
+Kozieg³owy
+Kozienice
+KoŸmin Wielkopolski
+Ko¿uchów
+Kórnik
+Krajenka
+Kraków
+Krapkowice
+Krasnobród
+Krasnystaw
+Kraœnik
+Krobia
+Krosno
+Krosno Odrzañskie
+Kroœniewice
+Krotoszyn
+Kruszwica
+Krynica
+Krynica Morska
+Krynki
+Krzanowice
+Krzepice
+Krzeszowice
+Krzywiñ
+Krzy¿ Wielkopolski
+Ksi¹¿ Wielkopolski
+Kudowa Zdrój
+Kunów
+Kutno
+KuŸnia Raciborska
+Kwidzyn
+L¹dek Zdrój
+Legionowo
+Legnica
+Lesko
+Leszno
+Leœna
+Leœnica
+Lewin Brzeski
+Le¿ajsk
+Lêbork
+Lêdziny
+Libi¹¿
+Lidzbark
+Lidzbark Warmiñski
+Limanowa
+Lipiany
+Lipno
+Lipsk
+Lipsko
+
+Lubaczów
+Lubañ
+Lubartów
+Lubawa
+Lubawka
+Lubieñ Kujawski
+Lubin
+Lublin
+Lubliniec
+Lubniewice
+Lubomierz
+Luboñ
+Lubraniec
+Lubsko
+Lubycza Królewska
+Lwówek
+Lwówek Œl¹ski
+£abiszyn
+£añcut
+£apy
+£asin
+£ask
+£askarzew
+£aszczów
+£aziska Górne
+£azy
+£eba
+£êczna
+£êczyca
+£êknica
+£obez
+£ob¿enica
+£ochów
+£omianki
+£om¿a
+£osice
+£owicz
+£ódŸ
+£uków
+Maków Mazowiecki
+Maków Podhalañski
+Malbork
+Ma³ogoszcz
+Ma³omice
+Margonin
+Marki
+Maszewo
+Maków Mazowiecki
+Maków Podhalañski
+Malbork
+Ma³ogoszcz
+Ma³omice
+Margonin
+Marki
+Maszewo
+Miasteczko Œl¹skie
+Miastko
+Micha³owo
+Miechów
+Miejska Górka
+Mielec
+Mieroszów
+Mieszkowice
+Miêdzybórz
+Miêdzychód
+Miêdzylesie
+Miêdzyrzec Podlaski
+Miêdzyrzecz
+Miêdzyzdroje
+Miko³ajki
+Miko³ów
+Mikstat
+Milanówek
+Milicz
+Mi³akowo
+Mi³om³yn
+Mi³os³aw
+Miñsk Mazowiecki
+Miros³awiec
+Mirsk
+M³awa
+M³ynary
+Modliborzyce
+Mogielnica
+Mogilno
+Moñki
+Mor¹g
+Mordy
+Moryñ
+Mosina
+Mr¹gowo
+Mrocza
+Mrozy
+Mszana Dolna
+Mszczonów
+Murowana Goœlina
+Muszyna
+Mys³owice
+Myszków
+Myszyniec
+Myœlenice
+Myœlibórz
+Nak³o nad Noteci¹
+Na³êczów
+Namys³ów
+Narol
+Nasielsk
+Nekla
+Nendza
+Nidzica
+Niemcza
+Niemodlin
+Niepo³omice
+Nieszawa
+Nisko
+Nowa Dêba
+Nowa Ruda
+Nowa Sarzyna
+Nowa Sól
+Nowe
+Nowe Brzesko
+Nowe Miasteczko
+Nowe Miasto Lubawskie
+Nowe Miasto nad Pilic¹
+Nowe Skalmierzyce
+Nowe Warpno
+Nowogard
+Nowogrodziec
+Nowogród
+Nowogród Bobrzañski
+Nowy Dwór Gdañski
+Nowy Dwór Mazowiecki
+Nowy S¹cz
+Nowy Staw
+Nowy Targ
+Nowy Tomyœl
+Nowy Wiœnicz
+Nysa
+Oborniki
+Oborniki Œl¹skie
+Obrzycko
+Odolanów
+Ogrodzieniec
+Okonek
+Olecko
+Olesno
+Oleszyce
+Oleœnica
+Olkusz
+Olsztyn
+Olsztynek
+Olszyna
+O³awa
+Opalenica
+Opatów
+Opoczno
+Opole
+Opole Lubelskie
+Orneta
+Orzesze
+Orzysz
+Osieczna
+Osiek
+Ostro³êka
+Ostroróg
+Ostrowiec Œwiêtokrzyski
+Ostróda
+Ostrów Lubelski
+Ostrów Mazowiecka
+Ostrów Wielkopolski
+Ostrzeszów
+Oœno Lubuskie
+Oœwiêcim
+Otmuchów
+Otwock
+Ozimek
+Ozorków
+O¿arów
+O¿arów Mazowiecki
+Piaseczno
+Piaski
+Piastów
+Piechowice
+Piekary Œl¹skie
+Pieniê¿no
+Pieñsk
+Pieszyce
+Pilawa
+Pilica
+Pilzno
+Pi³a
+Pi³awa Górna
+Piñczów
+Pionki
+Piotrków Kujawski
+Piotrków Trybunalski
+Pisz
+Piwniczna-Zdrój
+Pleszew
+P³ock
+P³oñsk
+P³oty
+Pabianice
+Paczków
+Pajêczno
+Pakoœæ
+Parczew
+Pas³êk
+Pasym
+Pelplin
+Pe³czyce
+Pniewy
+Pobiedziska
+Poddêbice
+Podkowa Leœna
+Pogorzela
+Polanica Zdrój
+Polanów
+Police
+Polkowice
+Po³aniec
+Po³czyn-Zdrój
+Poniatowa
+Poniec
+Porêba
+Poznañ
+Rabka
+Raci¹¿
+Racibórz
+Radków
+Radlin
+Rad³ów
+Radom
+Radomsko
+Radomyœl Wielki
+Radymno
+Radziejów
+Radzionków
+Radzymin
+Radzyñ Che³miñski
+Radzyñ Podlaski
+Rajgród
+Rakoniewice
+Raszków
+Rawa Mazowiecka
+Rawicz
+Recz
+Reda
+Rejowiec Fabryczny
+Resko
+Reszel
+RogoŸno
+Ropczyce
+Ró¿an
+Ruciane-Nida
+Ruda Œl¹ska
+Rudnik nad Sanem
+Rumia
+Rybnik
+Rychwa³
+Rydu³towy
+Rydzyna
+Ryglice
+Ryki
+Rymanów
+Ryn
+Rypin
+Rzepin
+Rzeszów
+Rzgów
+Sandomierz
+Sanok
+Sejny
+Serock
+Sêdziszów
+Sêdziszów Ma³opolski
+Sêpopol
+Sêpólno Krajeñskie
+Sianów
+Siechnice
+Siedlce
+Siedliszcze
+Siemianowice Œl¹skie
+Siemiatycze
+Sieniawa
+Sieradz
+Sieraków
+Sierpc
+Siewierz
+Skalbmierz
+Ska³a
+Skarszewy
+Skaryszew
+Skar¿ysko-Kamienna
+Skawina
+Skêpe
+Skierniewice
+Skoczów
+Skoki
+Skórcz
+Skwierzyna
+S³awa
+S³awków
+S³awno
+S³omniki
+S³ubice
+S³upca
+S³upsk
+Sobótka
+Sochaczew
+Soko³ów Ma³opolski
+Soko³ów Podlaski
+Sokó³ka
+Solec Kujawski
+Sompolno
+Sopot
+Sosnowiec
+Soœnicowice
+Stalowa Wola
+Starachowice
+Stargard
+Starogard Gdañski
+Stary S¹cz
+Staszów
+Stawiski
+Stawiszyn
+St¹porków
+Stepnica
+Stêszew
+Stoczek £ukowski
+Stopnica
+Stronie Œl¹skie
+Strumieñ
+Stryków
+Strzegom
+Strzegomek
+Strzelce Krajeñskie
+Strzelce Opolskie
+Strzelin
+Strzelno
+Strzy¿ów
+Sucha Beskidzka
+Suchañ
+Suchedniów
+Suchowola
+Sulechów
+Sulejów
+Sulejówek
+Sulêcin
+Sulmierzyce
+Su³kowice
+Supraœl
+Sura¿
+Susz
+Suwa³ki
+Swarzêdz
+Syców
+Szadek
+Szamocin
+Szamotu³y
+Szczawnica
+Szczawno Zdrój
+Szczebrzeszyn
+Szczecin
+Szczecinek
+Szczekociny
+Szczucin
+Szczuczyn
+Szczyrk
+Szczytna
+Szczytno
+Szepietowo
+Szklarska Porêba
+Szlichtyngowa
+Szprotawa
+Sztum
+Szubin
+Szyd³owiec
+Œcinawa
+Œlesin
+Œmigiel
+Œniadowo
+Œrem
+Œroda Œl¹ska
+Œroda Wielkopolska
+Œwi¹tniki Górne
+Œwidnica
+Œwidnik
+Œwidwin
+Œwiebodzice
+Œwiebodzin
+Œwiecie
+Œwieradów Zdrój
+Œwierzawa
+Œwiêtoch³owice
+Œwinoujœcie
+Tarczyn
+Tarnobrzeg
+Tarnogród
+Tarnowskie Góry
+Tarnów
+Tczew
+Terespol
+T³uszcz
+Tolkmicko
+Tomaszów Lubelski
+Tomaszów Mazowiecki
+Toruñ
+Torzym
+Toszek
+Trzcianka
+Trzciel
+Trzciñsko-Zdrój
+Trzebiatów
+Trzebinia
+Trzebnica
+Trzemeszno
+Tuchola
+Tuchów
+Tuczno
+Tuliszków
+Turek
+Tuszyn
+Twardogóra
+Tychowo
+Tychy
+Tyczyn
+Tykocin
+Tyszowce
+Ujazd
+Ujœcie
+Ulanów
+Uniejów
+Urzêdów
+Ustka
+Ustroñ
+Ustrzyki Dolne
+Wadowice
+Wa³brzych
+Wa³cz
+Warka
+Warszawa
+Warta
+Wasilków
+W¹brzeŸno
+W¹chock
+W¹growiec
+W¹sosz
+Wejherowo
+Wêgliniec
+Wêgorzewo
+Wêgorzyno
+Wêgrów
+Wi¹zów
+Wieleñ
+Wielichowo
+Wieliczka
+Wieluñ
+Wieruszów
+Wiêcbork
+Wilamowice
+Wis³a
+Witkowo
+Witnica
+Wleñ
+W³adys³awowo
+W³oc³awek
+W³odawa
+W³oszczowa
+Zab³udów
+Zabrze
+Zagórów
+Zagórz
+Zakliczyn
+Zaklików
+Zakopane
+Zakroczym
+Zalewo
+Zambrów
+Zamoœæ
+Zator
+Zawadzkie
+Zawichost
+Zawidów
+Zawiercie
+Z¹bki
+Z¹bkowice Œl¹skie
+Zb¹szynek
+Zb¹szyñ
+Zduny
+Zduñska Wola
+Zdzieszowice
+Zelów
+Zgierz
+Zgorzelec
+Zielona Góra
+Zielonka
+Ziêbice
+Z³ocieniec
+Z³oczew
+Z³otoryja
+Z³otów
+Z³oty Stok
+Zwierzyniec
+Zwoleñ
+¯abno
+¯agañ
+¯arki
+¯arów
+¯ary
+¯elechów
+¯erków
+¯migród
+¯nin
+¯ory
+¯ukowo
+¯uromin
+¯ychlin
+¯yrardów
+¯ywiec
+
+Wodzis³aw Œl¹ski
+Wojcieszów
+Wojkowice
+Wojnicz
+Wolbórz
+Wolbrom
+Wolin
+Wolsztyn
+Wo³czyn
+Wo³omin
+Wo³ów
+WoŸniki
+Wroc³aw
+Wronki
+Wrzeœnia
+Wschowa
+Wyrzysk
+Wysoka
+Wysokie Mazowieckie
+Wyszków
+Wyszogród
+Wyœmierzyce
+Zürich
+Geneva
+Basel
+Lausanne
+Bern
+Winterthur
+Lucerne
+St. Gallen
+Lugano
+Biel/Bienne
+Thun
+Köniz
+La Chaux-de-Fonds
+Fribourg
+Schaffhausen
+Chur
+Vernier
+Neuchâtel
+Uster
+Sion
+Alingsas
+Arboga
+Arvika
+Askersund
+Avesta
+Boden
+Bollnäs
+Borgholm
+Borlänge
+Boras
+Djursholm
+Eksjö
+Enköping
+Eskilstuna
+Eslöv
+Fagersta
+Falkenberg
+Falköping
+Falsterbo
+Falun
+Filipstad
+Flen
+Gothenburg
+Gränna
+Gävle
+Hagfors
+Halmstad
+Haparanda
+Hedemora
+Helsingborg
+Hjo
+Hudiksvall
+Huskvarna
+Härnösand
+Hässleholm
+Höganäs
+Jönköping
+Kalmar
+Karlshamn
+Karlskoga
+Karlskrona
+Karlstad
+Katrineholm
+Kiruna
+Kramfors
+Kristianstad
+Kristinehamn
+Kumla
+Kungsbacka
+Kungälv
+Köping
+Laholm
+Landskrona
+Lidingö
+Lidköping
+Lindesberg
+Linköping
+Ljungby
+Ludvika
+Lulea
+Lund
+Lycksele
+Lysekil
+Malmö
+Mariefred
+Mariestad
+Marstrand
+Mjölby
+Motala
+Nacka
+Nora
+Norrköping
+Norrtälje
+Nybro
+Nyköping
+Nynäshamn
+Nässjö
+Oskarshamn
+Oxelösund
+Pitea
+Ronneby
+Sala
+Sandviken
+Sigtuna
+Simrishamn
+Skanör
+Skanör med Falsterbo
+Skara
+Skelleftea
+Skänninge
+Skövde
+Solleftea
+Solna
+Stockholm
+Strängnäs
+Strömstad
+Sundbyberg
+Sundsvall
+Säffle
+Säter
+Sävsjö
+Söderhamn
+Söderköping
+Södertälje
+Sölvesborg
+Tidaholm
+Torshälla
+Tranas
+Trelleborg
+Trollhättan
+Trosa
+Uddevalla
+Ulricehamn
+Umea
+Uppsala
+Vadstena
+Varberg
+Vaxholm
+Vetlanda
+Vimmerby
+Visby
+Vänersborg
+Värnamo
+Västervik
+Västeras
+Växjö
+Ystad
+Amal
+Ängelholm
+Örebro
+Öregrund
+Örnsköldsvik
+Östersund
+Östhammar
+Kyiv
+Kharkiv
+Dnipro
+Odesa
+Donetsk
+Zaporizhia
+Lviv
+Kryvyi Rih
+Mykolaiv
+Mariupol
+Luhansk
+Makiivka
+Vinnytsia
+Simferopol
+Sevastopol
+Kherson
+Poltava
+Chernihiv
+Cherkasy
+Sumy
+Horlivka
+Zhytomyr
+Kamianske
+Kropyvnytskyi
+Khmelnytskyi
+Rivne
+Chernivtsi
+Kremenchuk
+Ternopil
+Ivano-Frankivsk
+Lutsk
+Bila Tserkva
+Kramatorsk
+Melitopol
+Kerch
+Nikopol
+Sloviansk
+Berdiansk
+Sieverodonetsk
+Alchevsk
+Pavlohrad
+Uzhhorod
+Lysychansk
+Yevpatoria
+Yenakiieve
+Kamianets-Podilskyi
+Kostiantynivka
+Krasnyi Luch
+Oleksandriia
+Konotop
+Stakhanov
+Uman
+Berdychiv
+Shostka
+Brovary
+Izmail
+Bakhmut
+Mukacheve
+Yalta
+Drohobych
+Nizhyn
+Feodosiya
+Sverdlovsk
+Novomoskovsk
+Torez
+Chervonohrad
+Pervomaisk
+Smila
+Pokrovsk
+Kalush
+Korosten
+Kovel
+Rubizhne
+Pryluky
+Druzhkivka
+Khartsyzk
+Lozova
+Antratsyt
+Stryi
+Kolomyia
+Shakhtarsk
+Snizhne
+Novohrad-Volynskyi
+Enerhodar
+Izium
+Myrnohrad
+Brianka
+Chornomorsk
+Boryspil
+Novovolynsk
+Rovenky
+Zhovti Vody
+Lubny
+Nova Kakhovka
+Fastiv
+Bilhorod-Dnistrovskyi
+Horishni Plavni
+Krasnodon
+Romny
+Okhtyrka
+Svitlovodsk
+Marhanets
+Shepetivka
+Pokrov
+Toretsk
+Dzhankoy
+Pervomaisk
+Myrhorod
+Voznesensk
+Podilsk
+Irpin
+Vasylkiv
+Dubno
+Varash
+Volodymyr-Volynskyi
+Kakhovka
+Yuzhnoukrainsk
+Boryslav
+Yasynuvata
+Zhmerynka
+Chuhuiv
+Sambir
+Tokmak
+Boiarka
+Hlukhiv
+Dobropillia
+Starokostiantyniv
+Kirovsk
+Vyshneve
+Slavuta
+Mohyliv-Podilskyi
+Obukhiv
+Pervomaiskyi
+Kupiansk
+Balakliia
+Synelnykove
+Pereiaslav-Khmelnytskyi
+Alushta
+Truskavets
+Krasnoperekopsk
+Kirovske
+Kostopil
+Debaltseve
+Perevalsk
+Saky
+Znamianka
+Ternivka
+Pershotravensk
+Khust
+Chortkiv
+Lebedyn
+Zolotonosha
+Bucha
+Novyi Rozdil
+Lyman
+Sarny
+Malyn
+Khmilnyk
+Bakhchisaray
+Selydove
+Berehove
+Kaniv
+Koziatyn
+Novoiavorivske
+Korostyshiv
+Popasna
+Vynohradiv
+Haisyn
+Molodohvardiysk
+Krolevets
+Merefa
+Volnovakha
+Zdolbuniv
+Kreminna
+Slavutych
+Dokuchaievsk
+Liubotyn
+Yuzhne
+Armiansk
+Vilnohirsk
+Yahotyn
+Sukhodilsk
+Zolochiv
+Trostianets
+Brody
+Polonne
+Vyshhorod
+Hadiach
+Krasnohrad
+Kilia
+Starobilsk
+Ladyzhyn
+Polohy
+Amvrosiivka
+Kremenets
+Henichesk
+Sokal
+Kurakhove
+Dniprorudne
+Volochysk
+Nadvirna
+Dolyna
+Stebnyk
+Vovchansk
+Krasyliv
+Piatykhatky
+Reni
+Bakhmach
+Derhachi
+Vatutine
+Kalynivka
+Balta
+Zvenyhorodka
+Zuhres
+Skadovsk
+Svatove
+Shpola
+Novoukrainka
+Korsun-Shevchenkivskyi
+Lutuhyne
+Bilohirsk
+Dolynska
+Iziaslav
+Bilopillia
+Bohodukhiv
+Skvyra
+Karlivka
+Orikhiv
+Bilozerske
+Zolote
+Yunokomunarivsk
+Pidhorodne
+Rozdilna
+Horodok
+Chervonopartyzansk
+Ilovaisk
+Berezhany
+Novohrodivka
+Vuhledar
+Berezan
+Putyvl
+Bolhrad
+Bar
+Svaliava
+Bohuslav
+Huliaipole
+Zmiiv
+Ovruch
+Verkhniodniprovsk
+Ochakiv
+Krasnohorivka
+Kivertsi
+Pyriatyn
+Chasiv Yar
+Vilniansk
+Dunaivtsi
+Apostolove
+Talne
+Artsyz
+Novyi Buh
+Tulchyn
+Haivoron
+Horodok
+Hola Prystan
+Nosivka
+Zhashkiv
+Horodysche
+Vasylivka
+Kamianka-Dniprovska
+Petrovske
+Beryslav
+Snihurivka
+Radomyshl
+Burshtyn
+Rakhiv
+Novhorod-Siverskyi
+Kamianka
+Tetiiv
+Mykolaiv
+Ostroh
+Zelenodolsk
+Vakhrusheve
+Khorol
+Storozhynets
+Sudak
+Siversk
+Koriukivka
+Biliaivka
+Hirnyk
+Ukrainka
+Nova Odesa
+Horodnia
+Schastia
+Kaharlyk
+Zhdanivka
+Berezne
+Terebovlia
+Vynnyky
+Rozhysche
+Yavoriv
+Zhovkva
+Tarascha
+Myronivka
+Bershad
+Ukrainsk
+Zbarazh
+Novomyrhorod
+Uzyn
+Svitlodarsk
+Soledar
+Bashtanka
+Mala Vyska
+Teplohirsk
+Barvinkove
+Prymorsk
+Mena
+Hlobyne
+Hnivan
+Komsomolske
+Ichnia
+Novoazovsk
+Baranivka
+Buchach
+Lokhvytsia
+Snovsk
+Bobrynets
+Nemyriv
+Kobeliaky
+Rodynske
+Chyhyryn
+Bobrovytsia
+Sosnivka
+Zhydachiv
+Yampil
+Mospyne
+Borzna
+Shcholkine
+Buryn
+Kamianka-Buzka
+Hrebinka
+Khrystynivka
+Hirske
+Tavriysk
+Borschiv
+Zymohiria
+Khotyn
+Illintsi
+Pomichna
+Olevsk
+Kamin-Kashyrskyi
+Tatarbunary
+Pohrebysche
+Maryinka
+Bolekhiv
+Inkerman
+Khodoriv
+Sniatyn
+Derazhnia
+Liuboml
+Valky
+Novodnistrovsk
+Radyvyliv
+Vuhlehirsk
+Verkhivtseve
+Zalischyky
+Staryi Krym
+Bilytske
+Pereschepyne
+Andrushivka
+Pustomyty
+Horodenka
+Tysmenytsia
+Tiachiv
+Semenivka
+Dubrovytsia
+Kodyma
+Irshava
+Berezivka
+Ananyiv
+Monastyrysche
+Lypovets
+Vylkove
+Radekhiv
+Mostyska
+Artemivsk
+Novodruzhesk
+Zavodske
+Alupka
+Horokhiv
+Pryvillia
+Chop
+Zastavna
+Zorynsk
+Tlumach
+Teplodar
+Lanivtsi
+Busk
+Korets
+Rohatyn
+Pivdenne
+Dubliany
+Rzhyschiv
+Novoselytsia
+Vorozhba
+Kosiv
+Pochaiv
+Rava-Ruska
+Molochansk
+Yaremcha
+Turka
+Kitsman
+Peremyshliany
+Seredyna-Buda
+Zboriv
+Khorostkiv
+Oster
+Sharhorod
+Perechyn
+Oleksandrivsk
+Kopychyntsi
+Skole
+Artemove
+Sudova
+Halych
+Morshyn
+Monastyryska
+Miusynsk
+Vashkivtsi
+Velyki Mosty
+Druzhba
+Staryi Sambir
+Shumsk
+Sviatohirsk
+Almazna
+Vyzhnytsia
+Maydanets
+Dobromyl
+Rudky
+Khyriv
+Skalat
+Komarno
+Bibrka
+Novyi Kalyniv
+Hlyniany
+Pidhaitsi
+Baturyn
+Belz
+Ustyluh
+Hertsa
+Berestechko
+Uhniv
+Chernobyl
+Prypiat
+Broshniv-Osada
+Svarychiv
