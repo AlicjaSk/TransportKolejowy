@@ -10,10 +10,15 @@ namespace HD
     {
         static void Main(string[] args)
         {
-            Generator g = new Generator();
-            //g.wczytajPliki();
+
+            GeneratorDB g = new GeneratorDB();
+
+            
             Console.WriteLine("\n\tWcisnij klawisz, aby zakonczyc ;-)");
             Console.ReadKey();
         }
+
+        static readonly Random rnd = new Random();
+        
     }
 }

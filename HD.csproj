@@ -44,10 +44,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BankSlow.cs" />
-    <Compile Include="Generator.cs" />
-    <Compile Include="Pracownik.cs" />
+    <Compile Include="GeneratorDB.cs" />
+    <Compile Include="tabele\Ankieta.cs" />
+    <Compile Include="tabele\Bilet.cs" />
+    <Compile Include="tabele\Dworzec.cs" />
+    <Compile Include="tabele\Klient.cs" />
+    <Compile Include="tabele\Kurs.cs" />
+    <Compile Include="tabele\Opoznienia.cs" />
+    <Compile Include="tabele\StacjaNaTrasie.cs" />
+    <Compile Include="tabele\Tabela.cs" />
+    <Compile Include="tabele\Trasa.cs" />
+    <Compile Include="tabele\Wagon.cs" />
+    <Compile Include="tabele\Zaloga.cs" />
+    <Compile Include="xml\Miasto.cs" />
+    <Compile Include="tabele\Pociag.cs" />
+    <Compile Include="tabele\Pracownik.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tabele\Ulga.cs" />
+    <Compile Include="Wyniki.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
